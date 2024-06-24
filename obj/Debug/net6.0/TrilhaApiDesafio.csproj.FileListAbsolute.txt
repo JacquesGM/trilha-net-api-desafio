@@ -1,0 +1,8 @@
+C:\Users\jacqu\Workflow\Dio\trilha-net-api-desafio - Copia\obj\Debug\net6.0\TrilhaApiDesafio.csproj.AssemblyReference.cache
+C:\Users\jacqu\Workflow\Dio\trilha-net-api-desafio - Copia\obj\Debug\net6.0\TrilhaApiDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacqu\Workflow\Dio\trilha-net-api-desafio - Copia\obj\Debug\net6.0\TrilhaApiDesafio.AssemblyInfoInputs.cache
+C:\Users\jacqu\Workflow\Dio\trilha-net-api-desafio - Copia\obj\Debug\net6.0\TrilhaApiDesafio.AssemblyInfo.cs
+C:\Users\jacqu\Workflow\Dio\trilha-net-api-desafio - Copia\obj\Debug\net6.0\TrilhaApiDesafio.csproj.CoreCompileInputs.cache
+C:\Users\jacqu\Workflow\Dio\trilha-net-api-desafio - Copia\obj\Debug\net6.0\TrilhaApiDesafio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jacqu\Workflow\Dio\trilha-net-api-desafio - Copia\obj\Debug\net6.0\TrilhaApiDesafio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jacqu\Workflow\Dio\trilha-net-api-desafio - Copia\obj\Debug\net6.0\TrilhaApiDesafio.sourcelink.json
